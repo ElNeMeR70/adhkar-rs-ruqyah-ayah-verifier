@@ -1,0 +1,10 @@
+[package]
+name = "adhkar-rs-ruqyah-ayah-verifier"
+version = "1.0.0"
+edition = "2021"
+description = "Authenticated Quranic & Sunnah Ruqyah Verification Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "adhkar_rs_ruqyah_ayah_verifier"
+path = "main.rs"
